@@ -1,0 +1,144 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  --theme-color: #24243e;
+  --bg-color: #0f0c292d;
+}
+
+/* body {
+  background: linear-gradient(to right, #59c173, #a17fe0, #5d26c1);
+} */
+.mainFrame {
+  background: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+}
+
+.navbar-brand {
+  font-size: bold;
+}
+
+.nav-link {
+  font-size: bold;
+}
+
+.titleHeading {
+  border-bottom: 5px solid var(--theme-color);
+}
+
+.techstack .tech-icon {
+  font-size: 2rem;
+  margin-right: 10px;
+}
+
+.techstack .card:hover {
+  background-color: var(--theme-color);
+  color: white;
+  transition: 1s;
+}
+
+.Projects .card-notify-badge {
+  position: absolute;
+  left: -10px;
+  top: -20px;
+  background-color: var(--theme-color);
+  color: white;
+}
+
+.Projects img {
+  height: 200px;
+  width: 100%;
+}
+
+.Certificates img {
+  height: 200px;
+  width: 100%;
+}
+
+.about-img {
+  height: 350px;
+  width: 60%;
+}
+
+.contactus img {
+  height: 300px;
+  width: 60%;
+  animation: mover 1s infinite alternate;
+}
+
+@keyframes mover {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-10px);
+  }
+}
+
+.card-detail-badge {
+  background-color: var(--theme-color);
+  border-radius: 20px;
+  padding: 5px 10px;
+  color: white;
+}
+
+.card-image-overlay span {
+  display: inline-block;
+  margin-left: 5px;
+}
+
+.card-btn {
+  background-color: var(--theme-color);
+  color: white;
+}
+
+.Projects .tech-icon {
+  font-size: 20px;
+  margin-left: 10px;
+}
+
+.education {
+  background-color: var(--bg-color);
+}
+
+.experience {
+  background-color: var(--bg-color);
+}
+
+.footer {
+  background-color: var(--theme-color);
+  color: white;
+}
+
+.home-img-box {
+  /* border-radius: 50%; */
+  /* background-color: rgb(30, 30, 83); */
+  /* box-shadow: 5px 5px 5px 5px white; */
+}
+
+.icon-div {
+  display: flex;
+  font-size: 15px;
+}
+
+.icon-div a {
+  color: white;
+}
+
+.navbar li:hover {
+  cursor: pointer;
+  color: var(--bg-color);
+  font-weight: bold;
+}
+
+/* -------------------------------------------------------------------------------------------*/
+
+/* portfolio2 css */
+.login .mainbox {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 2vmax, 8vmax;
+  box-sizing: border-box;
+}
