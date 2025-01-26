@@ -2,7 +2,7 @@ import React from "react";
 import img1 from "../images/asd3.jpg";
 import Typewriter from "typewriter-effect";
 import Fade from "react-reveal/Fade";
-import Resume from "../docs/devops_Resume_2024_ASD.pdf";
+import Resume from "../docs/AkshayDhongade_2025.pdf";
 
 export default function Home() {
   return (

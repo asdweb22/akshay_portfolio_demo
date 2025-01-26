@@ -79,6 +79,6 @@ git add .
 git status
 git commit -m "portfolio site data added"
 git branch -M main
-git remote add origin https://github.com/asdweb22/Akshay_portfolio.git
+git remote add origin https://github.com/asdweb22/akshay_portfolio_demo
 git push -u origin main
 npm run deploy
