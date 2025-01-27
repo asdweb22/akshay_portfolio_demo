@@ -18,8 +18,8 @@ export default function Home() {
                   strings: [
                     "Devops Engineer",
                     "Aws Cloud Engineer",
-                    "React Developer",
-                    "UI/UX Developer",
+                    "React js Developer",
+                    "Freelancer"
                   ],
                   autoStart: true,
                   loop: true,

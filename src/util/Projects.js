@@ -1,22 +1,49 @@
 export const Projects = [
   {
     id: 101,
+    Project_name: "MERN Stack + AWS",
+    Project_Type: "MERN Stack + AWS ",
+    Project_img:
+      "https://i0.wp.com/techprimelab.com/wp-content/uploads/2020/06/host-mean-app-on-aws-img.jpg?fit=1200%2C675&ssl=1",
+    // Project_deployed_link: "https://asdweb22.github.io/react_multi_project",
+    Project_github_link: "https://github.com/asdweb22/MERN-Stack-App-Deployment-on-AWS-Cloud",
+  },
+  {
+    id: 102,
+    Project_name: "Three-tier-kubernetes",
+    Project_Type: "Devops",
+    Project_img:
+      "https://miro.medium.com/v2/resize:fit:840/0*jrmkYMfNl1MH8N1p.png",
+    // Project_deployed_link: "https://asdweb22.github.io/react_multi_project",
+    Project_github_link: "https://github.com/asdweb22/Three-tier-kubernetes-project",
+  },
+  {
+    id: 103,
+    Project_name: "Aws-infra-terraform-jenkins",
+    Project_Type: "Devops",
+    Project_img:
+      "https://miro.medium.com/v2/resize:fit:1400/1*Do1Wl_dm7w-wNGUiTQBvuw.png",
+    // Project_deployed_link: "https://asdweb22.github.io/react_multi_project",
+    Project_github_link: "https://github.com/asdweb22/Aws-infra-terraform-jenkins",
+  },
+  {
+    id: 104,
     Project_name: "React Multi App",
     Project_Type: "FrontEnd",
     Project_img:
-      "https://www.techbricksedu.com/uploads/thumbnails/course_thumbnails/course_thumbnail_default_105.jpg",
+      "https://nordicapis.com/wp-content/uploads/A-Short-Guide-What-Types-of-Apps-Can-Be-Built-With-React.png",
     Project_deployed_link: "https://asdweb22.github.io/react_multi_project",
     Project_github_link: "https://github.com/asdweb22/react_multi_project",
   },
   {
-    id: 102,
+    id: 105,
     Project_name: "Crud-Operation",
     Project_Type: "FullStack",
     Project_img:
-      "https://www.codelivly.com/wp-content/uploads/2022/10/React-Projects.jpg",
+      "https://miro.medium.com/v2/resize:fit:612/0*-n7zV9fS0BMuMzM-.png",
   },
   {
-    id: 103,
+    id: 106,
     Project_name: "My-app",
     Project_Type: "FullStack",
     Project_img:
@@ -25,7 +52,7 @@ export const Projects = [
     Project_github_link: "https://github.com/asdweb22/Crud_App_mock_api",
   },
   {
-    id: 104,
+    id: 107,
     Project_name: "Netflix Clone App",
     Project_Type: "FrontEnd",
     Project_img:
