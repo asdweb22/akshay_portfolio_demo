@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/akshay_portfolio_demo/static/css/main.cd6423f7.css",
-    "main.js": "/akshay_portfolio_demo/static/js/main.7c137e97.js",
+    "main.js": "/akshay_portfolio_demo/static/js/main.38269fee.js",
     "static/js/787.20b59af2.chunk.js": "/akshay_portfolio_demo/static/js/787.20b59af2.chunk.js",
     "static/media/Aws_training.pdf": "/akshay_portfolio_demo/static/media/Aws_training.5ab64a5ce7e1a9185955.pdf",
     "static/media/PL-900_Certificate.pdf": "/akshay_portfolio_demo/static/media/PL-900_Certificate.702a200b62c728ad315d.pdf",
@@ -15,11 +15,11 @@
     "static/media/project-img.jpg": "/akshay_portfolio_demo/static/media/project-img.d905c871269bef99e3af.jpg",
     "index.html": "/akshay_portfolio_demo/index.html",
     "main.cd6423f7.css.map": "/akshay_portfolio_demo/static/css/main.cd6423f7.css.map",
-    "main.7c137e97.js.map": "/akshay_portfolio_demo/static/js/main.7c137e97.js.map",
+    "main.38269fee.js.map": "/akshay_portfolio_demo/static/js/main.38269fee.js.map",
     "787.20b59af2.chunk.js.map": "/akshay_portfolio_demo/static/js/787.20b59af2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd6423f7.css",
-    "static/js/main.7c137e97.js"
+    "static/js/main.38269fee.js"
   ]
 }
