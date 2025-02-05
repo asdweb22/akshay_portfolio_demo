@@ -2,7 +2,7 @@ import React from "react";
 import img1 from "../images/asd3.jpg";
 import Typewriter from "typewriter-effect";
 import Fade from "react-reveal/Fade";
-import Resume from "../docs/AkshayDhongade_2025.pdf";
+import Resume from "../docs/Dhongade_Akshay_2025.pdf";
 
 export default function Home() {
   return (
