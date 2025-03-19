@@ -1,15 +1,15 @@
 export const ExperienceList = [
   {
     id: 1,
-    CompanyName: "Hisan Labs",
-    location: "Pune, Nal-stop karve Road",
-    Role: "Devops Engineer",
-    Year: "May-2024 - Dec-2024",
+    CompanyName: "Unisky Technologies",
+    location: "Ashok Nagar, Mulund West, Mumbai, Maharashtra",
+    Role: "Aws Cloud Engineer",
+    Year: "May-2023 - Present",
     Work: [
       "Linux OS",
       "Worked on Aws Services",
-      "Automation infrastruture using Terraform",
-      "Created CI/CD Pipeline using Jenkins",
+      "Worked on Devops Tools like: Docker, Kubernetes, terraform, Jenkins ",
+
     ],
   },
   {
