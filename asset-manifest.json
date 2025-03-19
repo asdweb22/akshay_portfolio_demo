@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/akshay_portfolio_demo/static/css/main.cd6423f7.css",
-    "main.js": "/akshay_portfolio_demo/static/js/main.9b103584.js",
+    "main.js": "/akshay_portfolio_demo/static/js/main.3864a02b.js",
     "static/js/787.20b59af2.chunk.js": "/akshay_portfolio_demo/static/js/787.20b59af2.chunk.js",
     "static/media/Aws_training.pdf": "/akshay_portfolio_demo/static/media/Aws_training.5ab64a5ce7e1a9185955.pdf",
     "static/media/PL-900_Certificate.pdf": "/akshay_portfolio_demo/static/media/PL-900_Certificate.702a200b62c728ad315d.pdf",
@@ -9,17 +9,17 @@
     "static/media/GL_python.pdf": "/akshay_portfolio_demo/static/media/GL_python.db5431f6ac0c6b2829ff.pdf",
     "static/media/Itpreneur_certificate.pdf": "/akshay_portfolio_demo/static/media/Itpreneur_certificate.624a00d6ea3fa9b4566d.pdf",
     "static/media/about.png": "/akshay_portfolio_demo/static/media/about.52247b9fdf29d69322c1.png",
+    "static/media/Akshay_Dhongade_CV.pdf": "/akshay_portfolio_demo/static/media/Akshay_Dhongade_CV.fb810834d3ad80307328.pdf",
     "static/media/asd3.jpg": "/akshay_portfolio_demo/static/media/asd3.96f08237d5719761e4d0.jpg",
-    "static/media/Dhongade_Akshay_2025.pdf": "/akshay_portfolio_demo/static/media/Dhongade_Akshay_2025.694c49ea011edb31269a.pdf",
     "static/media/contactus.png": "/akshay_portfolio_demo/static/media/contactus.56952d478ba849d8acd3.png",
     "static/media/project-img.jpg": "/akshay_portfolio_demo/static/media/project-img.d905c871269bef99e3af.jpg",
     "index.html": "/akshay_portfolio_demo/index.html",
     "main.cd6423f7.css.map": "/akshay_portfolio_demo/static/css/main.cd6423f7.css.map",
-    "main.9b103584.js.map": "/akshay_portfolio_demo/static/js/main.9b103584.js.map",
+    "main.3864a02b.js.map": "/akshay_portfolio_demo/static/js/main.3864a02b.js.map",
     "787.20b59af2.chunk.js.map": "/akshay_portfolio_demo/static/js/787.20b59af2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd6423f7.css",
-    "static/js/main.9b103584.js"
+    "static/js/main.3864a02b.js"
   ]
 }
