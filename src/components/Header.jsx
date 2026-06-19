@@ -10,9 +10,7 @@ export default function Header() {
         <nav className="navbar sticky-top navbar-expand-lg shadow mb-2 bg-body-tertiary">
           <div className="container">
             <Fade bottom>
-              <a className="navbar-brand fw-bold" href="#">
-                Portfolio
-              </a>
+              <a className="navbar-brand fw-bold">Akshay Dhongade</a>
             </Fade>
             <button
               className="navbar-toggler"

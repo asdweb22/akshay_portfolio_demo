@@ -142,3 +142,25 @@
   padding: 2vmax, 8vmax;
   box-sizing: border-box;
 }
+
+
+/* ------------------------------------footer css */
+.footer {
+  background: #0f172a;
+  color: white;
+}
+
+.social-icons a {
+  color: white;
+  font-size: 32px;
+  margin: 0 12px;
+  transition: 0.3s ease;
+}
+
+.social-icons a:hover {
+  transform: translateY(-5px);
+}
+
+.footer hr {
+  background: rgba(255,255,255,0.2);
+}

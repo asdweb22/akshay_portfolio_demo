@@ -22,32 +22,61 @@ export default function Aboutus() {
 
           <div className="col-md-6 my-3">
             <Fade right>
-              <h2>About Me</h2>
+              <div className="about-content">
+                <h2 className="fw-bold mb-3">About Me</h2>
 
-              <p>
-                I am a Full Stack Developer and AWS Cloud Engineer with
-                experience in building scalable web applications, cloud
-                infrastructure, CRM platforms, HRMS systems, and eCommerce
-                solutions.
-              </p>
+                <h5 className="text-warning mb-4">
+                  AWS Cloud Engineer | Cloud & DevOps Engineer | Full Stack
+                  Developer
+                </h5>
 
-              <p>
-                My expertise spans React.js, Node.js, PHP, CodeIgniter, MySQL,
-                MongoDB, AWS Cloud, Docker, Kubernetes, Terraform, and DevOps
-                automation.
-              </p>
+                <p className="lead">
+                  I specialize in building scalable cloud infrastructure,
+                  automating deployments, and developing modern web
+                  applications.
+                </p>
 
-              <p>
-                I have worked on cloud migrations, infrastructure automation,
-                CI/CD pipelines, CRM development, payroll systems, and
-                production-grade web applications deployed on AWS.
-              </p>
+                <p>
+                  With experience across AWS Cloud, DevOps practices, Full Stack
+                  Development, CRM systems, HRMS platforms, and eCommerce
+                  solutions, I enjoy delivering complete end-to-end solutions
+                  from development to deployment.
+                </p>
 
-              <p>
-                I enjoy designing end-to-end solutions—from application
-                development to cloud deployment—while focusing on scalability,
-                performance, security, and user experience.
-              </p>
+                <div className="tech-badges mt-4">
+                  <span className="badge bg-primary m-1">AWS</span>
+
+                  <span className="badge bg-success m-1">Docker</span>
+
+                  <span className="badge bg-info m-1">Kubernetes</span>
+
+                  <span className="badge bg-secondary m-1">Terraform</span>
+
+                  <span className="badge bg-warning text-dark m-1">
+                    React.js
+                  </span>
+
+                  <span className="badge bg-danger m-1">Node.js</span>
+
+                  <span className="badge bg-dark m-1">PHP</span>
+
+                  <span className="badge bg-primary m-1">MySQL</span>
+                </div>
+
+                <div className="row mt-4">
+                  <div className="col-6">✅ AWS Cloud Migration</div>
+
+                  <div className="col-6">✅ Infrastructure Automation</div>
+
+                  <div className="col-6">✅ Kubernetes Deployments</div>
+
+                  <div className="col-6">✅ CRM Development</div>
+
+                  <div className="col-6">✅ HRMS & Payroll Systems</div>
+
+                  <div className="col-6">✅ eCommerce Platforms</div>
+                </div>
+              </div>
             </Fade>
           </div>
         </div>
