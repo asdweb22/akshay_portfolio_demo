@@ -26,10 +26,11 @@ export default function Experience() {
               iconStyle={{ background: "#0f0c29", color: "#fff" }}
               icon={<MdWork />}
             >
-              <h3 className="vertical-timeline-element-title">
-                {e.CompanyName} , {e.location}
-              </h3>
-              <h4 className="vertical-timeline-element-subtitle">{e.Role}</h4>
+              <h3 className="vertical-timeline-element-title">{e.Role}</h3>
+
+              <h4 className="vertical-timeline-element-subtitle">
+                {e.CompanyName} | {e.location}
+              </h4>
               <ul>
                 {e.Work.map((w) => (
                   <li key={w.w}>{w}</li>

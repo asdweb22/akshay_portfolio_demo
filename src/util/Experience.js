@@ -1,10 +1,43 @@
 export const ExperienceList = [
+
   {
     id: 1,
+    CompanyName: "Wardwiz",
+    location: "Pune",
+    Role: "PHP Full Stack Developer",
+    Year: "Jan-2026 - May-2026",
+    Work: [
+      "Built a complete eCommerce platform using CodeIgniter 4, PHP, MySQL, Bootstrap 5, and JavaScript.",
+      "Developed product catalog management, shopping cart, order tracking, payment workflow, inventory management, and reporting modules.",
+      "Designed and implemented a complete HRMS and Payroll Management System.",
+      "Developed employee management, attendance tracking, leave management, and automated salary processing features.",
+      "Optimized MySQL database structures, relationships, and queries for improved performance.",
+      "Created responsive admin dashboards with CRUD operations, reporting modules, and role-based access control."
+    ],
+  },
+
+  {
+    id: 2,
+    CompanyName: "CareerMantra",
+    location: "Pune",
+    Role: "Full Stack Developer & Cloud Engineer",
+    Year: "Jul-2025 - Jan-2026",
+    Work: [
+      "Led migration of the CareerMantra website from shared hosting infrastructure to AWS Cloud.",
+      "Configured and managed AWS EC2, S3, RDS, IAM, and CloudWatch services.",
+      "Developed a custom CRM platform for lead management with role-based access.",
+      "Integrated Mailchimp and Neodove CRM systems to automate lead capture and email marketing workflows.",
+      "Configured CloudWatch monitoring dashboards and S3 lifecycle policies.",
+      "Improved scalability, reliability, operational visibility, and storage cost optimization."
+    ],
+  },
+
+  {
+    id: 3,
     CompanyName: "Unisky Technologies",
     location: "Ashok Nagar, Mulund West, Mumbai, Maharashtra",
     Role: "Aws Cloud Engineer",
-    Year: "May-2023 - Present",
+    Year: "May-2023 - June-2025",
     Work: [
       "Linux OS",
       "Worked on Aws Services",
@@ -12,20 +45,9 @@ export const ExperienceList = [
 
     ],
   },
+
   {
-    id: 2,
-    CompanyName: "Freelancing",
-    location: "Pune",
-    Role: "Web developer | Graphics designing",
-    Year: "May-2023 - Present",
-    Work: [
-      "Website development",
-      "Graphics Designing : Logo Design, Social media post Design",
-      "MERN Stack + AWS Cloud "
-    ],
-  },
-  {
-    id: 3,
+    id: 4,
     CompanyName: "GS Lab",
     location: "Pune,Baner",
     Role: "Software Engineer",
@@ -37,7 +59,7 @@ export const ExperienceList = [
     ],
   },
   {
-    id: 4,
+    id: 5,
     CompanyName: "9w Media",
     location: "Pune,Wakad",
     Role: "Web developer, Intern",
