@@ -2,7 +2,7 @@ import React from "react";
 import img1 from "../images/asd3.jpg";
 import Typewriter from "typewriter-effect";
 import Fade from "react-reveal/Fade";
-import Resume from "../docs/Akshay_Dhongade_CV.pdf";
+import Resume from "../docs/Akshay_Dhongade_Resume_2026.pdf";
 
 export default function Home() {
   return (
@@ -19,7 +19,7 @@ export default function Home() {
                     "Devops Engineer",
                     "Aws Cloud Engineer",
                     "React js Developer",
-                    "Freelancer"
+                    "Freelancer",
                   ],
                   autoStart: true,
                   loop: true,

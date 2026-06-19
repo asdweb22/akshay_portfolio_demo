@@ -22,20 +22,32 @@ export default function Aboutus() {
 
           <div className="col-md-6 my-3">
             <Fade right>
-              <h2>Hello i am Akshay Dhongade,</h2>
-              <h4>
-                {" "}
-                I like to work on different Roles: <br></br>
-                <ul className="mt-3">
-                  <li>Devops Engineer</li>
-                  <li>AWS Cloud Engineer </li>
-                  <li>Software Development</li>
-                  <li>MERN Stack Development</li>
-                  <li>UI/UX designing</li>
-                  <li>Teaching-(Sharing Knowledge with others)</li>
-                  <li>Freelancing : Graphics Designing</li>
-                </ul>
-              </h4>
+              <h2>About Me</h2>
+
+              <p>
+                I am a Full Stack Developer and AWS Cloud Engineer with
+                experience in building scalable web applications, cloud
+                infrastructure, CRM platforms, HRMS systems, and eCommerce
+                solutions.
+              </p>
+
+              <p>
+                My expertise spans React.js, Node.js, PHP, CodeIgniter, MySQL,
+                MongoDB, AWS Cloud, Docker, Kubernetes, Terraform, and DevOps
+                automation.
+              </p>
+
+              <p>
+                I have worked on cloud migrations, infrastructure automation,
+                CI/CD pipelines, CRM development, payroll systems, and
+                production-grade web applications deployed on AWS.
+              </p>
+
+              <p>
+                I enjoy designing end-to-end solutions—from application
+                development to cloud deployment—while focusing on scalability,
+                performance, security, and user experience.
+              </p>
             </Fade>
           </div>
         </div>
