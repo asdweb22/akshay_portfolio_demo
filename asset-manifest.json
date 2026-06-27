@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/akshay_portfolio_demo/static/css/main.27b8087c.css",
-    "main.js": "/akshay_portfolio_demo/static/js/main.e05e041a.js",
+    "main.js": "/akshay_portfolio_demo/static/js/main.153de42f.js",
     "static/js/787.20b59af2.chunk.js": "/akshay_portfolio_demo/static/js/787.20b59af2.chunk.js",
     "static/media/AWS_multi_region_disaster_recovery_architecture.png": "/akshay_portfolio_demo/static/media/AWS_multi_region_disaster_recovery_architecture.23bcd3615f861d975684.png",
+    "static/media/Serverless_architecture.png": "/akshay_portfolio_demo/static/media/Serverless_architecture.0b80a50d77d8edcf0aea.png",
     "static/media/Aws_training.pdf": "/akshay_portfolio_demo/static/media/Aws_training.5ab64a5ce7e1a9185955.pdf",
     "static/media/Akshay_Dhongade_Resume_2026.pdf": "/akshay_portfolio_demo/static/media/Akshay_Dhongade_Resume_2026.54a4e6734ab6571b781f.pdf",
     "static/media/PL-900_Certificate.pdf": "/akshay_portfolio_demo/static/media/PL-900_Certificate.702a200b62c728ad315d.pdf",
@@ -15,11 +16,11 @@
     "static/media/project-img.jpg": "/akshay_portfolio_demo/static/media/project-img.d905c871269bef99e3af.jpg",
     "index.html": "/akshay_portfolio_demo/index.html",
     "main.27b8087c.css.map": "/akshay_portfolio_demo/static/css/main.27b8087c.css.map",
-    "main.e05e041a.js.map": "/akshay_portfolio_demo/static/js/main.e05e041a.js.map",
+    "main.153de42f.js.map": "/akshay_portfolio_demo/static/js/main.153de42f.js.map",
     "787.20b59af2.chunk.js.map": "/akshay_portfolio_demo/static/js/787.20b59af2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.27b8087c.css",
-    "static/js/main.e05e041a.js"
+    "static/js/main.153de42f.js"
   ]
 }
