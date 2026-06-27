@@ -4,7 +4,7 @@ export const ExperienceList = [
     id: 1,
     CompanyName: "Wardwiz",
     location: "Pune",
-    Role: "PHP Full Stack Developer",
+    Role: "Full Stack Developer + Aws Cloud Operations",
     Year: "Jan-2026 - May-2026",
     Work: [
       "Built a complete eCommerce platform using CodeIgniter 4, PHP, MySQL, Bootstrap 5, and JavaScript.",
@@ -12,7 +12,10 @@ export const ExperienceList = [
       "Designed and implemented a complete HRMS and Payroll Management System.",
       "Developed employee management, attendance tracking, leave management, and automated salary processing features.",
       "Optimized MySQL database structures, relationships, and queries for improved performance.",
-      "Created responsive admin dashboards with CRUD operations, reporting modules, and role-based access control."
+      "Created responsive admin dashboards with CRUD operations, reporting modules, and role-based access control.",
+      "Deployed PHP applications on AWS EC2 instances and configured MySQL databases for development and testing environments.",
+      "Worked with AWS RDS (MySQL) for database connectivity, application testing, and performance validation.",
+      "Collaborated on application deployment, server configuration, and troubleshooting activities to ensure application availability and reliability."
     ],
   },
 

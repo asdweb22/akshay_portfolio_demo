@@ -1,9 +1,19 @@
 import awsDrImage from "../images/AWS_multi_region_disaster_recovery_architecture.png";
+import serverless from "../images/Serverless_architecture.png";
 
 console.log(awsDrImage);
+console.log(serverless);
 export const Projects = [
     {
     id: 101,
+    Project_name: "AWS Aws Serverless Student Management System",
+    Project_Type: "AWS Cloud Architecture",
+    Project_img: serverless,
+    Project_github_link:
+      "https://github.com/asdweb22/aws-serverless-student-management-system",
+  },
+  {
+    id: 102,
     Project_name: "AWS Multi-Region Disaster Recovery Architecture",
     Project_Type: "AWS Cloud Architecture",
     Project_img: awsDrImage,
@@ -11,7 +21,7 @@ export const Projects = [
       "https://github.com/asdweb22/aws-multi-region-disaster-recovery",
   },
    {
-    id: 102,
+    id: 103,
     Project_name: "eCommerce Management Platform",
     Project_Type: "Professional Project",
     Project_img:
@@ -20,7 +30,7 @@ export const Projects = [
     Project_github_link: "",
   },
   {
-    id: 103,
+    id: 104,
     Project_name: "HRMS & Payroll Management System",
     Project_Type: "Professional Project",
     Project_img:
@@ -31,7 +41,7 @@ export const Projects = [
 
  
   {
-    id: 104,
+    id: 105,
     Project_name: "MERN Stack Application Deployment on AWS",
     Project_Type: "Full Stack + AWS",
     Project_img:
@@ -40,7 +50,7 @@ export const Projects = [
     Project_github_link: "https://github.com/asdweb22/MERN-Stack-App-Deployment-on-AWS-Cloud",
   },
   {
-    id: 105,
+    id: 106,
     Project_name: "Three-Tier Application on Kubernetes",
     Project_Type: "Devops",
     Project_img:
@@ -49,7 +59,7 @@ export const Projects = [
     Project_github_link: "https://github.com/asdweb22/Three-tier-kubernetes-project",
   },
   {
-    id: 106,
+    id: 107,
     Project_name: "AWS Infrastructure Provisioning using Terraform & Jenkins",
     Project_Type: "Cloud & DevOps",
     Project_img:
@@ -58,7 +68,7 @@ export const Projects = [
     Project_github_link: "https://github.com/asdweb22/Aws-infra-terraform-jenkins",
   },
   {
-    id: 107,
+    id: 108,
     Project_name: "React Multi App",
     Project_Type: "FrontEnd",
     Project_img:
@@ -67,14 +77,14 @@ export const Projects = [
     Project_github_link: "https://github.com/asdweb22/react_multi_project",
   },
   {
-    id: 108,
+    id: 109,
     Project_name: "Crud-Operation",
     Project_Type: "FullStack",
     Project_img:
       "https://miro.medium.com/v2/resize:fit:612/0*-n7zV9fS0BMuMzM-.png",
   },
   {
-    id: 109,
+    id: 110,
     Project_name: "My-app",
     Project_Type: "FullStack",
     Project_img:
